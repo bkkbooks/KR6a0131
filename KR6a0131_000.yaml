@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0131/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說三摩竭經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0129.xml
+    old_id: T02n0129
+hash: sha256:32ba2634baa870a93214503514f5ac5860bc11321e63a28a70f5752f7a029b23

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0131/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0131/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說三摩竭經
+  identifiers:
+    krp: KR6a0131
+    cbeta: T02n0129
+    cbeta_old_id: T02n0129
+    authorityid: CA0002736
+    json_key: T0129
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0129.xml
+    old_id: T02n0129
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0131_000-T.yaml, hash: 'sha256:32ba2634baa870a93214503514f5ac5860bc11321e63a28a70f5752f7a029b23'}
+  - {seq: 1, filename: KR6a0131_001-T.yaml, hash: 'sha256:730e19feff70cf2bf4c0737b1537513b2dd47fbdbf580d91a1d279e868b1de2e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0131_000-T.markers.yaml, hash: 'sha256:859a5b6ae15ee3d7678a3909ac9fdbc88f9d1cd790af49edf6768c4329c5c477'}
+  - {seq: 1, role: markers, filename: assets/KR6a0131_001-T.markers.yaml, hash: 'sha256:365cec10db29765890372916c838a49eab4b781150d13da97f736933b98a1646'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0131_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3425
+  label: 佛說三摩竭經
+  type: juan
+  level: 1
+hash: sha256:3a4b9f8e0e65c6145983959f06077c8d9e9538e9d85262f78047b32cf78cf1ee
