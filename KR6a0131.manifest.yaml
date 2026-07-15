@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0131/v1
 canonical_location: https://kanripo.org/bkk/KR6a0131/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說三摩竭經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0131_000.yaml, hash: 'sha256:32ba2634baa870a93214503514f5ac5860bc11321e63a28a70f5752f7a029b23'}
-  - {seq: 1, filename: KR6a0131_001.yaml, hash: 'sha256:730e19feff70cf2bf4c0737b1537513b2dd47fbdbf580d91a1d279e868b1de2e'}
+  - {seq: 1, filename: KR6a0131_001.yaml, hash: 'sha256:c6dc40d143dbffa4d90736ebc62c646410c849ffa8780992a713c70afff9a911'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0131_000.markers.yaml, hash: 'sha256:21dc81cf8f3e9b4d6234041b6d0178f09304b983cbbedfba0cb115e452484b2b'}
-  - {seq: 1, role: markers, filename: assets/KR6a0131_001.markers.yaml, hash: 'sha256:e0da0075548b14e829495a96fdbd2f4a513e48939e150faa8bf154cf514a96e0'}
+  - {seq: 1, role: markers, filename: assets/KR6a0131_001.markers.yaml, hash: 'sha256:743e564d5058e1c8f5db796ba8eb6a7b027832e9816464fc6e41a48f6150e17c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說三摩竭經
   type: juan
   level: 1
-hash: sha256:a0ee6e709aae43bce9e406abb85b726eadfd48b6e4d0c9af0dcaf760f41bcada
+hash: sha256:6eb7e3064ecc7a25adc407163a2aeda39519339b502c56d0f2e610d58e08c0e4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
