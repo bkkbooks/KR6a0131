@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0131_000-T.yaml, hash: 'sha256:32ba2634baa870a93214503514f5ac5860bc11321e63a28a70f5752f7a029b23'}
   - {seq: 1, filename: KR6a0131_001-T.yaml, hash: 'sha256:730e19feff70cf2bf4c0737b1537513b2dd47fbdbf580d91a1d279e868b1de2e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0131_000-T.markers.yaml, hash: 'sha256:859a5b6ae15ee3d7678a3909ac9fdbc88f9d1cd790af49edf6768c4329c5c477'}
+  - {seq: 0, role: markers, filename: assets/KR6a0131_000-T.markers.yaml, hash: 'sha256:ec7b411a1140f55e7cd7a1826c37f6b9dfca2079f091b961ab9a0b6d3e5ad9b2'}
   - {seq: 1, role: markers, filename: assets/KR6a0131_001-T.markers.yaml, hash: 'sha256:365cec10db29765890372916c838a49eab4b781150d13da97f736933b98a1646'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說三摩竭經
   type: juan
   level: 1
-hash: sha256:3a4b9f8e0e65c6145983959f06077c8d9e9538e9d85262f78047b32cf78cf1ee
+hash: sha256:24942ec26185105876f0629885e3733798b4013fbf76178eecfc363292626d8f
